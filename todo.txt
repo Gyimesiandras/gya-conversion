@@ -1,3 +1,4 @@
 cd, a working directory
 git add ....txt, addolja a filet
-git commit
+git commit -m, commitol, messaget lehet utána írni
+git push origin main
